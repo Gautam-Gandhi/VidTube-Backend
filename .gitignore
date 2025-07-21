@@ -8,7 +8,7 @@ node_modules/
 *.log
 
 # Temporary uploaded files
-public/temp/*
+# public/temp/*
 
 # OS generated files
 .DS_Store
